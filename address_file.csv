@@ -1,0 +1,4 @@
+id,hotel_id,zip,street,city,country
+60601,10,11000,Na prikope 2,Prague,CZ
+60602,30,53000,city center,Hradec,CZ
+60603,20,42200,Na prikope 2,Brno,CZ
